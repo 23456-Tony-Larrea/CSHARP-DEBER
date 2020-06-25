@@ -1,0 +1,13 @@
+D:\PV3ERO\PASO1\CONSOLA\bin\Debug\netcoreapp3.1\CONSOLA.exe
+D:\PV3ERO\PASO1\CONSOLA\bin\Debug\netcoreapp3.1\CONSOLA.deps.json
+D:\PV3ERO\PASO1\CONSOLA\bin\Debug\netcoreapp3.1\CONSOLA.runtimeconfig.json
+D:\PV3ERO\PASO1\CONSOLA\bin\Debug\netcoreapp3.1\CONSOLA.runtimeconfig.dev.json
+D:\PV3ERO\PASO1\CONSOLA\bin\Debug\netcoreapp3.1\CONSOLA.dll
+D:\PV3ERO\PASO1\CONSOLA\bin\Debug\netcoreapp3.1\CONSOLA.pdb
+D:\PV3ERO\PASO1\CONSOLA\obj\Debug\netcoreapp3.1\CONSOLA.csprojAssemblyReference.cache
+D:\PV3ERO\PASO1\CONSOLA\obj\Debug\netcoreapp3.1\CONSOLA.AssemblyInfoInputs.cache
+D:\PV3ERO\PASO1\CONSOLA\obj\Debug\netcoreapp3.1\CONSOLA.AssemblyInfo.cs
+D:\PV3ERO\PASO1\CONSOLA\obj\Debug\netcoreapp3.1\CONSOLA.csproj.CoreCompileInputs.cache
+D:\PV3ERO\PASO1\CONSOLA\obj\Debug\netcoreapp3.1\CONSOLA.dll
+D:\PV3ERO\PASO1\CONSOLA\obj\Debug\netcoreapp3.1\CONSOLA.pdb
+D:\PV3ERO\PASO1\CONSOLA\obj\Debug\netcoreapp3.1\CONSOLA.genruntimeconfig.cache
